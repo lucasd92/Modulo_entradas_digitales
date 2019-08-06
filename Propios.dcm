@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC-DC_Step-Down
+D Basado en LM2596
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP SIM800L_modulo
+D Módulo basado en sim80L de 12 pines
+F http://mt-system.ru/sites/default/files/documents/sim800_hardware_design_v1.09.pdf
+$ENDCMP
+#
+#End Doc Library
