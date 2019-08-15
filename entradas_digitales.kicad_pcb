@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.0.2)-1")
+(kicad_pcb (version 20171130) (host pcbnew "(5.0.0)")
 
   (general
     (thickness 1.6)
@@ -96,9 +96,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "../Gerber/Entradas/"))
   )
 
   (net 0 "")
@@ -4238,7 +4238,7 @@
   (segment (start 130.42 76.895) (end 130.025 76.5) (width 0.25) (layer F.Cu) (net 73) (tstamp 5D563F5C))
   (segment (start 136 76.895) (end 130.42 76.895) (width 0.25) (layer F.Cu) (net 73) (tstamp 5D563F59))
 
-  (zone (net 39) (net_name VSS) (layer B.Cu) (tstamp 5D564E05) (hatch edge 0.508)
+  (zone (net 39) (net_name VSS) (layer B.Cu) (tstamp 5D4B64B6) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.3)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
